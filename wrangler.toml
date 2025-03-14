@@ -8,8 +8,8 @@ database_name = "newsnow"
 database_id = "130f6688-c201-46b9-8dde-4778406a0487"
 
 [vars]
-G_CLIENT_ID= "Ov23lijty28RuCqKgkzE"
-G_CLIENT_SECRET= "672f8b475996bb067945a4ba5d521c73c835e9f4"
-JWT_SECRET=
-INIT_TABLE=true
-ENABLE_CACHE=true
+G_CLIENT_ID = "Ov23lijty28RuCqKgkzE"
+G_CLIENT_SECRET = "672f8b475996bb067945a4ba5d521c73c835e9f4"
+JWT_SECRET = ""
+INIT_TABLE = true
+ENABLE_CACHE = true
